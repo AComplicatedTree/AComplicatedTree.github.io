@@ -12,10 +12,13 @@
     <meta property="og:url" content="https://treedev.acomplicatedtree.repl.co/">
     <meta property="og:locale" content="en_US">
     <meta property="og:image" content="/robo.jpg">
-    <title>RuAlg/title>
+    <title>RuAlg</title>
     <meta name="description" content="An Invite to the rualg discord bot">
     <meta property="og:attachment" content="https://assets-global.website-files.com/5f9072399b2640f14d6a2bf4/619442eb8b3fab3eda4c29eb_Author-Wumpus-Webflow.png">
 </head>
+<script>
+    window.location.replace("https://discord.com/404")
+</script>
 <body>
 </body>
 </html>
