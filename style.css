@@ -84,3 +84,92 @@ body {
     text-decoration: none;
     font-size: .9rem;
 }
+
+.abt-me-hdr {
+    position: relative;
+    top: 10px;
+    left: 7px;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 65px;
+}
+
+.abt-me-txt {
+    position: relative;
+    top: 30px;
+    left: 25px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    max-width: 750px;
+}
+
+.abt-me-txt a:link{
+    text-decoration: none;
+    color: white;
+}
+
+.abt-me-txt a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+.abt-me-txt a:hover {
+    text-decoration: underline;
+    color: #5865f2;
+}
+
+.scls-hdr {
+    position: relative;
+    top: 50px;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 65px;
+}
+.scls-txt a:link {
+    color: white;
+    text-decoration: none;
+    position: relative;
+    top: 70px;
+    left: 25px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+}
+
+.scls-txt a:visited {
+    color: white;
+    text-decoration: none;
+    position: relative;
+    top: 70px;
+    left: 25px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+}
+
+.scls-yt-icon {
+    position: relative;
+    top: 4px;
+}
+
+a.scls-yt:hover {
+    color: #c4302b;
+}
+
+.scls-inst-icon {
+    position: relative;
+    top: 4px;
+}
+
+a.scls-inst:hover {
+    color: #fbad50;
+}
+
+.scls-dc-icon {
+    position: relative;
+    top: 4px;
+}
+a.scls-dc:hover {
+    color: #5865f2;
+}
