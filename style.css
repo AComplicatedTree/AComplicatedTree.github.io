@@ -170,6 +170,16 @@ a.scls-inst:hover {
     position: relative;
     top: 4px;
 }
+
 a.scls-dc:hover {
     color: #5865f2;
+}
+
+.scls-git-icon {
+    position: relative;
+    top: 4px;
+}
+
+a.scls-git:hover {
+    color: #dcd1d1;
 }
