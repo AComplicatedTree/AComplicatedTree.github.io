@@ -148,24 +148,6 @@ body {
     font-size: 35px;
 }
 
-.scls-yt-icon {
-    position: relative;
-    top: 4px;
-}
-
-a.scls-yt:hover {
-    color: #c4302b;
-}
-
-.scls-inst-icon {
-    position: relative;
-    top: 4px;
-}
-
-a.scls-inst:hover {
-    color: #fbad50;
-}
-
 .scls-dc-icon {
     position: relative;
     top: 4px;
